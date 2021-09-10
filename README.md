@@ -1,4 +1,2 @@
-# Bootcamp-Engenharia-de-Dados
-Bootcamp Banco Carrefour Data Engineer
-Bootcamp de engenharia de dados do carrefour na Digital Inovation One
-Codigos de estudo e containeres de projetos praticos
+# dio-curso-etl
+Curso oferecido para a DIO sobre ETL utilizando a linguagem Python e as bibliotecas pandas e pandera.
